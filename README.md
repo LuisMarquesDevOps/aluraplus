@@ -1,5 +1,5 @@
 ### Project
 
-<p> https://luismarquesdevops.github.io/aluraplus/<\p>
+<p> https://luismarquesdevops.github.io/aluraplus/
 
-<p> https://aluraplus-delta-tawny.vercel.app/<\p>
+<p> https://aluraplus-delta-tawny.vercel.app/
